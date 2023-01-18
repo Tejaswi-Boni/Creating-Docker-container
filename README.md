@@ -26,3 +26,7 @@ docker ps
 #to stop docker container
 
 docker stop <container_id>
+
+#to install requirements
+
+python setup.py install
